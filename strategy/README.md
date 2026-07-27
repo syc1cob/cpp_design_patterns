@@ -35,7 +35,6 @@ else if (paymentType == PayPal)
 {
     ...
 }
-```
 
                 +----------------------+
                 |  PaymentStrategy     |
@@ -62,6 +61,7 @@ else if (paymentType == PayPal)
                 +----------------------+
 
 
+```
 Strategy Pattern in Embedded/Automotive
 
 Suppose you're developing an Adaptive AUTOSAR logging framework.
